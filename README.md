@@ -1,2 +1,1 @@
-# -ouc16020021031-IAAA-ISSUES
-This repository is used to store issues for IAAA
+# This repository is used to store issues for [IAAA](http://galaxy.ustc.edu.cn/)
